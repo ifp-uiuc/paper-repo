@@ -10,10 +10,10 @@ http://arxiv.org/pdf/1311.2524v4.pdf
 }
 
 % Tags
-#objejct_detection
-#convnet
-#imagenet
-#pascal_voc
+#objejct_detection  
+#convnet  
+#imagenet  
+#pascal_voc  
 
 % Description
 Kicks ass on pascal. 58% mAP on Pascal VOC 2007.
