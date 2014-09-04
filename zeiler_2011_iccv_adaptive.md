@@ -17,3 +17,5 @@ http://www.matthewzeiler.com/pubs/iccv2011/iccv2011.pdf
 + reconstruction
 + convnet  
 + sparse_coding
++ ista
++ pooling
