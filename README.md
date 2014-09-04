@@ -13,10 +13,10 @@ link
 
 bibtex citation
 
-% Tags
+% Tags  
 \#tag_number_1
 
-% Description
+% Description  
 Description goes here
 
 #### Example usage:
