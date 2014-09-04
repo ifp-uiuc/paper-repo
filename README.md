@@ -24,5 +24,7 @@ See zeiler_2014_eccv_visualizing.txt
 
 ### Common tags
 \#convnet
+
 \#imagenet
+
 \#hinton
