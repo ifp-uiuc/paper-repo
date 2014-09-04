@@ -1,4 +1,4 @@
-% girshick_2014_cvpr_rich
+# girshick_2014_cvpr_rich
 
 http://arxiv.org/pdf/1311.2524v4.pdf
 
