@@ -11,7 +11,6 @@ http://www.matthewzeiler.com/pubs/iccv2011/iccv2011.pdf
   organization={IEEE}
 }
 
-
 # Tags  
 + unsupervised
 + reconstruction

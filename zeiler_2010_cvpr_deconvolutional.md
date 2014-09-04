@@ -11,7 +11,6 @@ http://www.matthewzeiler.com/pubs/cvpr2010/cvpr2010.pdf
   organization={IEEE}
 }
 
-
 # Tags  
 + unsupervised
 + reconstruction
