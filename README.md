@@ -4,7 +4,7 @@ Repo to make keeping an up-to-date list of papers easier.
 
 ### File format
 #### Filename
-lastname_year_venue_{first word of publication title}.txt
+`lastname_year_venue_{first word of publication title}.md`
 
 #### File contents
 ```
