@@ -14,7 +14,7 @@ link
 bibtex citation
 
 % Tags
-#tag_number_1
+\#tag_number_1
 
 % Description
 Description goes here
@@ -23,8 +23,6 @@ Description goes here
 See zeiler_2014_eccv_visualizing.txt
 
 ### Common tags
-\#convnet
-
-\#imagenet
-
+\#convnet<br>
+\#imagenet<br>
 \#hinton
