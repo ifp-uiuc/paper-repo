@@ -10,7 +10,7 @@ http://arxiv.org/pdf/1311.2524v4.pdf
 }
 
 # Tags  
-+ objejct_detection  
++ object_detection  
 + convnet  
 + imagenet  
 + pascal_voc  
