@@ -21,7 +21,7 @@ bibtex citation
 Description goes here
 ```
 #### Example usage:
-See zeiler_2014_eccv_visualizing.txt
+See zeiler_2014_eccv_visualizing.md
 
 ### Common tags
 + convnet  
