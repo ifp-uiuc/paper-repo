@@ -1,4 +1,4 @@
-% zeiler_2014_eccv_visualizing
+# zeiler_2014_eccv_visualizing
 
 http://www.matthewzeiler.com/pubs/arxive2013/arxive2013.pdf
 
@@ -11,9 +11,9 @@ http://www.matthewzeiler.com/pubs/arxive2013/arxive2013.pdf
   publisher={Springer}
 }
 
-% Tags
-#visualization
-#convnet
-#imagenet
+# Tags
++ visualization
++ convnet
++ imagenet
 
-% Description
+# Description
