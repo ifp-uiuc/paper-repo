@@ -23,6 +23,6 @@ Description goes here
 See zeiler_2014_eccv_visualizing.txt
 
 ### Common tags
-&#35convnet
+\#convnet
 #imagenet
 #hinton
