@@ -15,5 +15,5 @@ http://arxiv.org/pdf/1311.2524v4.pdf
 \#imagenet  
 \#pascal_voc  
 
-% Description
+% Description  
 Kicks ass on pascal. 58% mAP on Pascal VOC 2007.
