@@ -6,7 +6,7 @@ The format is supposed to look good in github, and be easy to `grep`.
 
 ### File format
 #### Filename
-`lastname_year_venue_{first word of publication title}.md`
+```lastname_year_venue_{first word of publication title}.md```
 
 #### File contents
 ```
@@ -32,10 +32,10 @@ See [zeiler_2014_eccv_visualizing.md](zeiler_2014_eccv_visualizing.md)
 
 ### Grep examples
 Find papers by Girshick:  
-`ls | grep girshick`
+```ls | grep girshick```
 Find papers tagged with convnet, by Girshick:  
-`grep -rl '+ convnet' . | grep girshick`
+```grep -rl '+ convnet' . | grep girshick```
 Find papers tagged with convnet, in 2014:  
-`grep -rl '+ convnet' . | grep 2014`
+```grep -rl '+ convnet' . | grep 2014```
 Find papers tagged with convnet, in eccv:  
-`grep -rl '+ convnet' . | grep cvpr`
+```grep -rl '+ convnet' . | grep cvpr```
