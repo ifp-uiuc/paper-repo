@@ -9,7 +9,7 @@ http://arxiv.org/pdf/1311.2524v4.pdf
   year={2013}
 }
 
-% Tags
+% Tags  
 \#objejct_detection  
 \#convnet  
 \#imagenet  
