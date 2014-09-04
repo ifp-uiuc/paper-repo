@@ -31,11 +31,11 @@ See [zeiler_2014_eccv_visualizing.md](zeiler_2014_eccv_visualizing.md)
 + hinton  
 
 ### Grep examples
-Find papers by Girshick:
+Find papers by Girshick:  
 `ls | grep girshick`
-Find papers tagged with convnet, by Girshick:
+Find papers tagged with convnet, by Girshick:  
 `grep -rl '+ convnet' . | grep girshick`
-Find papers tagged with convnet, in 2014:
+Find papers tagged with convnet, in 2014:  
 `grep -rl '+ convnet' . | grep 2014`
-Find papers tagged with convnet, in eccv:
+Find papers tagged with convnet, in eccv:  
 `grep -rl '+ convnet' . | grep cvpr`
