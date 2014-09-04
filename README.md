@@ -8,16 +8,16 @@ Repo to make keeping an up-to-date list of papers easier.
 
 #### File contents
 ```
-% filename
+# filename
 
 link
 
 bibtex citation
 
-% Tags  
-\#tag_number_1
+# Tags  
++ tag_number_1
 
-% Description  
+# Description  
 Description goes here
 ```
 #### Example usage:
