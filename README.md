@@ -32,7 +32,9 @@ See [zeiler_2014_eccv_visualizing.md](zeiler_2014_eccv_visualizing.md)
 
 ### Grep examples
 Find papers by Girshick:  
-```ls | grep girshick```
+```
+ls | grep girshick
+```
 Find papers tagged with convnet, by Girshick:  
 ```grep -rl '+ convnet' . | grep girshick```
 Find papers tagged with convnet, in 2014:  
