@@ -2,11 +2,11 @@ IFP Deep Learning Paper Repo
 ============================
 Repo to make keeping an up-to-date list of papers easier.
 
-## File format
-### Filename
+### File format
+#### Filename
 lastname_year_venue_{first word of publication title}.txt
 
-### File contents
+#### File contents
 % filename
 
 link
@@ -19,10 +19,10 @@ bibtex citation
 % Description
 Description goes here
 
-### Example usage:
+#### Example usage:
 See zeiler_2014_eccv_visualizing.txt
 
-## Common tags
-#convnet
+### Common tags
+&#35convnet
 #imagenet
 #hinton
