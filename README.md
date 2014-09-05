@@ -47,5 +47,5 @@ grep -rl '+ convnet' . | grep 2014
 ```  
 Find papers tagged with convnet, in eccv:  
 ```
-grep -rl '+ convnet' . | grep cvpr
+grep -rl '+ convnet' . | grep eccv
 ```  
